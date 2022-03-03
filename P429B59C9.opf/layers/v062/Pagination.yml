@@ -273,75 +273,75 @@ annotations:
     reference: ''
     span:
       start: 52279
-      end: 53694
+      end: 53692
     note_ref: c0249d640a59468188cb5c7c376e7c9a
   f9e26440e9bd4ac0ab9a9ec3410db075:
     imgnum: 1540
     reference: ''
     span:
-      start: 53696
-      end: 55103
+      start: 53694
+      end: 55102
     note_ref: c0249d640a59468188cb5c7c376e7c9a
   a00131692c474c3f95c923821ecd218c:
     imgnum: 1541
     reference: ''
     span:
-      start: 55105
-      end: 56496
+      start: 55104
+      end: 56495
     note_ref: 0f3a23524e604c0f9bc2aca37749daeb
   7bf9591bac074335a3fda9bf57fe61e6:
     imgnum: 1542
     reference: ''
     span:
-      start: 56498
-      end: 57885
+      start: 56497
+      end: 57884
     note_ref: 0f3a23524e604c0f9bc2aca37749daeb
   d8f29243a7ab4a7cbe101d72bb76be94:
     imgnum: 1543
     reference: ''
     span:
-      start: 57887
-      end: 59295
+      start: 57886
+      end: 59294
     note_ref: 0f3a23524e604c0f9bc2aca37749daeb
   333a5b8dfcec4039939b0845ab84063d:
     imgnum: 1544
     reference: ''
     span:
-      start: 59297
-      end: 60635
+      start: 59296
+      end: 60634
     note_ref: 0f3a23524e604c0f9bc2aca37749daeb
   6b64bce733fc4b0a95c98be3c1d2b413:
     imgnum: 1545
     reference: ''
     span:
-      start: 60637
-      end: 61986
+      start: 60636
+      end: 61985
     note_ref: 0f3a23524e604c0f9bc2aca37749daeb
   8d8b240233984b73a8871fcfe7eacb84:
     imgnum: 1546
     reference: ''
     span:
-      start: 61988
-      end: 63128
+      start: 61987
+      end: 63127
     note_ref: 0f3a23524e604c0f9bc2aca37749daeb
   49814b36a3364ee29d2ffe8a641cfdd0:
     imgnum: 1547
     reference: ''
     span:
-      start: 63130
-      end: 64913
+      start: 63129
+      end: 64912
   c0249d640a59468188cb5c7c376e7c9a:
     imgnum: 1548
     reference: ''
     span:
-      start: 64915
-      end: 66976
+      start: 64914
+      end: 66975
   0f3a23524e604c0f9bc2aca37749daeb:
     imgnum: 1549
     reference: ''
     span:
-      start: 66978
-      end: 67678
+      start: 66977
+      end: 67677
 local_ids:
   2e3994e4c5ac4893990c962c531a362a: 200000
   bb5e8d08f2d44d8189c3f870abaa29a3: 200001
